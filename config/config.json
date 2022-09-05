@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFBD97266Ab43bef88b578625105065b4F548520D",
+  "SCAN_LINK": "https://bscscan.com/address/0xfbd97266ab43bef88b578625105065b4f548520d",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Bapes",
+  "SYMBOL": "BAPE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/bsc",
+  "SHOW_BACKGROUND": true
+}
